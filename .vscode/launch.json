@@ -1,0 +1,134 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Fibonacci",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Fibonacci",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Pattern",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Pattern",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Ascii",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Ascii",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LabeledBreak",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "LabeledBreak",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DoWhileLoop",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "DoWhileLoop",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - WhileLoop",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "WhileLoop",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ForLoop",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "ForLoop",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SwitchCase",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "SwitchCase",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HelloWorld",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "HelloWorld",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LogicalTernary",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "LogicalTernary",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LogicalIfElse",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "LogicalIfElse",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BooleanType",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "BooleanType",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LeftRightShiftOperator",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "LeftRightShiftOperator",
+            "args": ""
+        }
+    ]
+}
